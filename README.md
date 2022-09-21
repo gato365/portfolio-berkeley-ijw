@@ -6,23 +6,30 @@
 
 
 # Markup
-![url](v1.jpg)
+
 ##Version 1 - 
+![url](v1.jpg)
+
 ## How can I create a rough sketch using a GIF?
 
 What I am doing here is just getting a rough sketch of the website based on where the images are and where the boxes are. I tried to be tough to get this on a GIF. However I I am creating multiple mark ups so that I can use this to better understand what goes where.
 
-![url](v2.jpg)
+
 ## Version 2 - 
+
+![url](v2.jpg)
+
 Question 2: Where are the boxes are going to be?
 
 In this image I use the gift in the previous mark up to get a better sense of where the boxes are. I color-coded it based on what I think that would be similar, while ignoring where text would be.
 
 
 
+## Version 3 - 
+
 ![url](v3.jpg)
 
-## Version 3 - 
+
 Question 3: Where is the info located?
 
 Since the header URLs are going to be pointing to information on the website and the contact information is going to be linked to information off the website and finally the images are going to be linked to material that is on the website. It is important that we make that designation in the actual Website
@@ -55,13 +62,26 @@ Since the header URLs are going to be pointing to information on the website and
 
 
 
-
+## Version 4 - 
 
 ![url](v4.jpg)
-## Version 4 - 
+
 Question 4: What type of tags will be used?
 
 Answer 4: This image is actually very important because it allows me to figure out what tags are going to be needed within the HTML file before actually programming. I change my mind in terms of the article regarding the projects in the main projects so I decided to split them up into A,: Article 1, with 1 image
 
 -A1: Article 1
 -A2: Article 2
+
+
+# START HERE
+# Code Forseeing
+What is the idela directory structure?
+
+What are the regions in wbesite?
+
+# Process of Programming
+Repeat Process
+- Select top most Region
+- Develop HTML with semanatics and comments
+- Develop CSS
