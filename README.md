@@ -4,10 +4,22 @@
 
 # do not forget hover
 
-![url](v1.jpg)
 
+# Markup
+![url](v1.jpg)
+##Version 1 - 
+## How can I create a rough sketch using a GIF?
+
+What I am doing here is just getting a rough sketch of the website based on where the images are and where the boxes are. I tried to be tough to get this on a GIF. However I I am creating multiple mark ups so that I can use this to better understand what goes where.
 
 ![url](v2.jpg)
+## Version 2 - 
+Question 2: Where are the boxes are going to be?
+
+In this image I use the gift in the previous mark up to get a better sense of where the boxes are. I color-coded it based on what I think that would be similar, while ignoring where text would be.
+
+
+
 ![url](v3.jpg)
 
 ## Version 3 - 
