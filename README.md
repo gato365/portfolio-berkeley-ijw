@@ -36,10 +36,10 @@ Since the header URLs are going to be pointing to information on the website and
 - S_3: Contact Me with Line 3
 
 - I_{1T}:  information phone number text
-- I_{2url}:  information email
-- I_{3url}:  information
-- I_{4url}:  information
-- I_{5url}:  information
+- I_{2url}:  information email url
+- I_{3url}:  information GitHub url
+- I_{4url}:  information Business Website url
+- I_{5url}:  information LinkedIn
 
 
 
