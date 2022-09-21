@@ -71,6 +71,7 @@ Question 4: What type of tags will be used?
 Answer 4: This image is actually very important because it allows me to figure out what tags are going to be needed within the HTML file before actually programming. I change my mind in terms of the article regarding the projects in the main projects so I decided to split them up into A,: Article 1, with 1 image
 
 -A1: Article 1
+
 -A2: Article 2
 
 
