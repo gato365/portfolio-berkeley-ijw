@@ -1,7 +1,7 @@
 # portfolio-berkeley-ijw
 
 # Markup
-$\colorbox{red}{text}$
+# $$\textcolor{red}{text}$$
 
 ##Version 1 - 
 ![url](v1.jpg)
