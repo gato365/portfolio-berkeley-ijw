@@ -1,7 +1,7 @@
 # portfolio-berkeley-ijw
 
 # Markup
-# $$\textcolor{red}{text}$$
+
 
 ##Version 1 - 
 ![url](v1.jpg)
@@ -71,7 +71,9 @@ Answer 4: This image is actually very important because it allows me to figure o
 -A2: Article 2
 
 
-#  <span color: red>START HERE </span>
+
+
+# $$\textcolor{red}{START HERE}$$
 ## Code Forseeing
 Question 5: What is the idela directory structure?
 Answer 5: Below demonstrates the current thought process
