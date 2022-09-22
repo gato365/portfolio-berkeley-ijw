@@ -18,7 +18,7 @@ Question 2: Where are the boxes are going to be?
 
 In this image I use the gift in the previous mark up to get a better sense of where the boxes are. I color-coded it based on what I think that would be similar, while ignoring where text would be.
 
-
+\colorbox{red}{text}
 
 ## Version 3 - 
 
