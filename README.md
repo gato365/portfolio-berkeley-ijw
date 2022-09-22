@@ -84,6 +84,7 @@ Answer 5: Below demonstrates the current thought process
 
 # $$\textcolor{red}{START HERE}$$
 What are the regions in wbesite?
+(Modification 1) - Make HTML skeleton
 
 # Process of Programming
 Repeat Process
@@ -91,3 +92,4 @@ Repeat Process
 - Develop HTML with semanatics and comments
 - Develop CSS
   - hovertip
+- Resize Images in Markdown
