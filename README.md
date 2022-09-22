@@ -84,7 +84,19 @@ Answer 5: Below demonstrates the current thought process
 
 # $$\textcolor{red}{START HERE}$$
 What are the regions in wbesite?
-(Modification 1) - Make HTML skeleton
+## (Modification 1) - Make HTML skeleton
+
+## 1st Attempt of making HTML Skeleton
+![url](assets/images/first_attempt.jpg)
+
+
+## 2nd Attempt of making HTML Skeleton
+![url](assets/images/second_attempt.jpg)
+
+## 3rd Attempt of making HTML Skeleton
+![url](assets/images/third_attempt.jpg)
+
+
 
 # Process of Programming
 Repeat Process
