@@ -4,7 +4,8 @@
 
 
 ##Version 1 - 
-![url](v1.jpg)
+
+![url](assets/images/v1.jpg)
 
 ## How can I create a rough sketch using a GIF?
 
@@ -13,7 +14,7 @@ What I am doing here is just getting a rough sketch of the website based on wher
 
 ## Version 2 - 
 
-![url](v2.jpg)
+![url](assets/images/v2.jpg)
 
 Question 2: Where are the boxes are going to be?
 
@@ -23,7 +24,7 @@ In this image I use the gift in the previous mark up to get a better sense of wh
 
 ## Version 3 - 
 
-![url](v3.jpg)
+![url](assets/images/v3.jpg)
 
 
 Question 3: Where is the info located?
@@ -60,7 +61,7 @@ Since the header URLs are going to be pointing to information on the website and
 
 ## Version 4 - 
 
-![url](v4.jpg)
+![url](assets/images/v4.jpg)
 
 Question 4: What type of tags will be used?
 
@@ -78,7 +79,7 @@ Answer 4: This image is actually very important because it allows me to figure o
 Question 5: What is the idela directory structure?
 Answer 5: Below demonstrates the current thought process
 
-![url](directory_map.jpg)
+![url](assets/images/directory_map.jpg)
 
 
 # $$\textcolor{red}{START HERE}$$
