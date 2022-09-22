@@ -82,21 +82,35 @@ Answer 5: Below demonstrates the current thought process
 ![url](assets/images/directory_map.jpg)
 
 
-# $$\textcolor{red}{START HERE}$$
+
 What are the regions in wbesite?
 ## (Modification 1) - Make HTML skeleton
 
 ## 1st Attempt of making HTML Skeleton
+
+General approach to building the website based on all the tags
+
+
+
 ![url](assets/images/first_attempt.jpg)
 
 
 ## 2nd Attempt of making HTML Skeleton
+
+Provide further details on the tags of the website
+
 ![url](assets/images/second_attempt.jpg)
 
 ## 3rd Attempt of making HTML Skeleton
+
+Since we have 2 have the capacity to hover over all the boxes we We’re going to have a class ID for the last two divs in the body
+
 ![url](assets/images/third_attempt.jpg)
 
 
+# $$\textcolor{red}{START HERE}$$
+
+process - Develop Flexbox Thought and code
 
 # Process of Programming
 Repeat Process
