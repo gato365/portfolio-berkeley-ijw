@@ -78,6 +78,8 @@ Answer 4: This image is actually very important because it allows me to figure o
 Question 5: What is the idela directory structure?
 Answer 5: Below demonstrates the current thought process
 
+![url](directory_map.jpg)
+
 
 
 What are the regions in wbesite?
