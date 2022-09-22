@@ -1,10 +1,5 @@
 # portfolio-berkeley-ijw
 
-
-
-# do not forget hover
-
-
 # Markup
 
 ##Version 1 - 
@@ -75,14 +70,18 @@ Answer 4: This image is actually very important because it allows me to figure o
 -A2: Article 2
 
 
-# START HERE
-# Code Forseeing
-What is the idela directory structure?
+#  <span color: red>START HERE </span>
+## Code Forseeing
+Question 5: What is the idela directory structure?
+Answer 5: Below demonstrates the current thought process
+
+
 
 What are the regions in wbesite?
 
 # Process of Programming
 Repeat Process
-- Select top most Region
+- Select top most region
 - Develop HTML with semanatics and comments
 - Develop CSS
+  - hovertip
