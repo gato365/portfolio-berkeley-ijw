@@ -3,9 +3,11 @@
 # Markup
 
 
-##Version 1 - 
+## Version 1 - 
 
-![url](assets/images/v1.jpg)
+
+
+<img src = "/assets/images/v1.jpg" width="25%" height="45%"> 
 
 ## How can I create a rough sketch using a GIF?
 
@@ -14,7 +16,7 @@ What I am doing here is just getting a rough sketch of the website based on wher
 
 ## Version 2 - 
 
-![url](assets/images/v2.jpg)
+<img src = "/assets/images/v2.jpg" width="25%" height="45%"> 
 
 Question 2: Where are the boxes are going to be?
 
@@ -24,7 +26,7 @@ In this image I use the gift in the previous mark up to get a better sense of wh
 
 ## Version 3 - 
 
-![url](assets/images/v3.jpg)
+<img src = "/assets/images/v3.jpg" width="25%" height="45%"> 
 
 
 Question 3: Where is the info located?
@@ -61,7 +63,7 @@ Since the header URLs are going to be pointing to information on the website and
 
 ## Version 4 - 
 
-![url](assets/images/v4.jpg)
+<img src = "/assets/images/v4.jpg" width="25%" height="45%"> 
 
 Question 4: What type of tags will be used?
 
@@ -79,8 +81,8 @@ Answer 4: This image is actually very important because it allows me to figure o
 Question 5: What is the idela directory structure?
 Answer 5: Below demonstrates the current thought process
 
-![url](assets/images/directory_map.jpg)
 
+<img src = "/assets/images/directory_map.jpg" width="25%" height="45%"> 
 
 
 What are the regions in wbesite?
@@ -91,22 +93,21 @@ What are the regions in wbesite?
 General approach to building the website based on all the tags
 
 
-
-![url](assets/images/first_attempt.jpg)
-
+<img src = "/assets/images/first_attempt.jpg" width="25%" height="45%"> 
 
 ## 2nd Attempt of making HTML Skeleton
 
 Provide further details on the tags of the website
 
-![url](assets/images/second_attempt.jpg)
+
+<img src = "/assets/images/second_attempt.jpg" width="25%" height="45%"> 
 
 ## 3rd Attempt of making HTML Skeleton
 
 Since we have 2 have the capacity to hover over all the boxes we We’re going to have a class ID for the last two divs in the body
 
-![url](assets/images/third_attempt.jpg)
 
+<img src = "/assets/images/third_attempt.jpg" width="25%" height="45%"> 
 
 # $$\textcolor{red}{START HERE}$$
 
