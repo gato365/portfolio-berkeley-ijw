@@ -23,6 +23,7 @@ header{
   background :#163055;
   min-height : 5.74%;
   width: 100%;
+  text-align: right;
   /* padding-top: 15px; */
   margin-right: 20px;
   float: none;
@@ -41,19 +42,37 @@ header ul li {
 }
 
 
-main{  
- background :black;
+nav{
+  background :black;
   min-height : 13.46%;
   float :left;
   width : 100%;
   color : #ffffff;
 }
-section{  
- background :#EDEDF7;
+
+main{  
+background :#EDEDF7;
   min-height : 67.34%;
   float :left;
   width : 100%;
-  color : #ffffff;
+  color : #132249;
+}
+
+
+.aside-info{
+  background-color: blueviolet;
+  width: 30%;
+  height: 200px;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: left;
+  text-align: right;
+}
+.section-images{  
+  background :orange;
+  width : 70%;
+  height: 200px;
+  float :left
 }
 
 
@@ -62,6 +81,7 @@ footer{
   background :#EDEDF7;
   min-height : 13.46%;
   float :left;
+  text-align: right;
   width : 100%;
 }
 
@@ -83,50 +103,58 @@ footer ul li {
 
 
 <body> 
-     <header >
-      <ul>
-        <li>
-            <a href="#about-me">About Me</a>
-        </li>
-        <li>
-            <a href="#work">Work</a>
-        </li>
-        <li>
-          <a href="#contact-me">Contact Me</a>
+  <!-- Part A: Set Header -->
+  <header >
+    <ul>
+      <li>
+        <a href="#about-me">About Me</a>
       </li>
-      
-        <li>
-            <a href="#contact-me">Resume</a>
-        </li>
+      <li>
+        <a href="#work">Work</a>
+      </li>
+      <li>
+        <a href="#contact-me">Contact Me</a>
+      </li>
+      <li>
+        <a href="#contact-me">Resume</a>
+      </li>
     </ul>
-     </header>
-     <main>
-     qwe
-     </main>
-     <section>
-      <div id = "love"> 
-Go Love its your b day
-      </div>
-     </section>
-     <footer>
-      <ul>
-        <li>
-            <a href="#love">(732)-207-7321</a>
-        </li>
-        <li>
-            <a href="#love">immanuelwilliams@gato365.com</a>
-        </li>
-        <li>
-            <a href="https://github.com/gato365">GitHub</a>
-        </li>
-        <li>
-          <a href="https://www.gato365.com/">GATO365</a>
-        </li>
-        <li>
+  </header>
+
+  <!-- Part B: Image of Middle Section -->
+  <nav class="info">
+    yo
+  </nav>
+
+
+  <!-- Part C: The Main Part of project -->
+  <main>
+    <!-- Left Aside to Describe aspects of webside -->
+    <aside class="aside-info">d</aside>
+    <!-- Right Section Displays Relevant Information -->
+    <section class="section-images">Learning</section>
+  </main>
+
+ 
+  <footer>
+    <ul>
+      <li>
+        <a href="#love">(732)-207-7321</a>
+      </li>
+      <li>
+        <a href="#love">immanuelwilliams@gato365.com</a>
+      </li>
+      <li>
+        <a href="https://github.com/gato365">GitHub</a>
+      </li>
+      <li>
+        <a href="https://www.gato365.com/">GATO365</a>
+      </li>
+      <li>
         <a href="https://www.linkedin.com/in/immanuelwilliams/">LinkedIn</a>
-       </li>
+      </li>
     </ul>
-     </footer>
+  </footer>
 </body>
 
 
