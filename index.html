@@ -105,10 +105,28 @@ main{
 /*              section                 */
 /*                                      */
 /* Part C - section: Properties of section */
-.section-info{  
-  background :orange;
-  width : 70%;
+
+
+
+
+.me-info{
+  background-color: blueviolet;
+  width: 70%;
   height: 100%;
+  float: left;
+  text-align: right;
+}
+
+.about-me-section{
+  background-color: aqua;
+  width : 100%;
+  height: 17.5%; 
+  
+}
+.project-section{  
+  background-color:orange;
+  width : 100%;
+  height: 70%;
   float: left;
 }
 
@@ -118,18 +136,19 @@ main{
 
 
 
-footer{
-  background :#EDEDF7;
-  min-height : 13.46%;
+section.contact-me-section{
+  background-color:pink;
+  width : 100%;
+  height: 12.5%;
   float :left;
   text-align: right;
-  width : 100%;
+  float: right;
 }
 
-footer ul {
+section.contact-me-section ul {
     list-style-type: none;
 }
-footer ul li {
+section.contact-me-section ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -163,9 +182,7 @@ footer ul li {
   </header>
 
   <!-- Part B: Image of Middle Section -->
-  <nav class="info">
-    yo
-  </nav>
+  <nav class="info"> <img src="/assets/images/nav-bar.jpg" alt = "nav-bar"></nav>
 
 
   <!-- Part C: The Main Part of project -->
@@ -179,33 +196,35 @@ footer ul li {
       <div><h3 class="contact-me-info" id = "contact-me">Contact Me</h3></div>
     </aside>
     <!-- Right Section Displays Relevant Information -->
-    <section class="section-info">Learning</section>
-  </main>
-
- 
+    <div class = "me-info">
+    
 
 
+    <section class="about-me-section"><h3>About</h3></section>
+    <section class="project-section">Learning</section>
+    <section class = "contact-me-section">
+      <ul>
+        <li>
+          <a href="#love">(732)-207-7321</a>
+        </li>
+        <li>
+          <a href="#love">immanuelwilliams@gato365.com</a>
+        </li>
+        <li>
+          <a href="https://github.com/gato365">GitHub</a>
+        </li>
+        <li>
+          <a href="https://www.gato365.com/">GATO365</a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/immanuelwilliams/">LinkedIn</a>
+        </li>
+      </ul>
+    </section>
+  </div>
 
-
-  <footer>
-    <ul>
-      <li>
-        <a href="#love">(732)-207-7321</a>
-      </li>
-      <li>
-        <a href="#love">immanuelwilliams@gato365.com</a>
-      </li>
-      <li>
-        <a href="https://github.com/gato365">GitHub</a>
-      </li>
-      <li>
-        <a href="https://www.gato365.com/">GATO365</a>
-      </li>
-      <li>
-        <a href="https://www.linkedin.com/in/immanuelwilliams/">LinkedIn</a>
-      </li>
-    </ul>
-  </footer>
+  
+</main>
 </body>
 
 
