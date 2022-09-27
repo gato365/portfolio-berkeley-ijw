@@ -5,6 +5,7 @@
 
 <head>
 <title>Emans Portfolio</title>
+<link rel="icon" type="image/x-icon" href="/assets/images/logo2021_close.PNG">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
@@ -50,11 +51,13 @@ header ul li {
 /* Part B - main: Information for Navigation Bar */
 nav{
   background :black;
-  min-height : 13.46%;
+  height : 13.46%;
   float :left;
   width : 100%;
   color : #ffffff;
 }
+
+
 
 
 /* Part C - main: Description of aside and section */
@@ -62,7 +65,7 @@ main{
   background-color:#EDEDF7;
   width : 100%;
   height: 100%;
-  float :left;
+  /* float :left; */
   color : #132249;
 }
 
@@ -80,13 +83,15 @@ main{
   float: left;
   text-align: right;
 }
+
+
 /* Part C2 - aside: each region of aside properties*/
 .about-me-info{
   height: 17.5%; 
   border-right: 2.5px solid #132249; 
   margin: 0px;
 } 
-.work-info{
+.project-info{
   height: 70%; 
   border-right: 2.5px solid #132249; 
   margin: 0px;
@@ -167,10 +172,6 @@ section.contact-me-section ul li {
 
 
 
-
-
-
-
 <body> 
   <!-- Part A: Set Header -->
   <header >
@@ -191,7 +192,11 @@ section.contact-me-section ul li {
   </header>
 
   <!-- Part B: Image of Middle Section -->
-  <nav class="info"> <img src="/assets/images/nav-bar.jpg" alt = "nav-bar"></nav>
+  <nav class="nav-info"> 
+    <!-- <img src="/assets/images/nav-bar.jpg" alt = "nav-bar">  -->
+  </nav>
+
+  
 
 
   <!-- Part C: The Main Part of project -->
@@ -200,15 +205,16 @@ section.contact-me-section ul li {
     <aside class="aside-info">
       <div class="about-me-info" id="about-me" > <h3 >About Me</h3></div>
       <!-- <div class = "vertical-space"></div> -->
-      <div><h3 class="work-info" id = "work">Work</h3></div>
+      <div><h3 class="project-info">Work</h3></div>
       <!-- <div class = "vertical-space"></div> -->
       <div><h3 class="contact-me-info" id = "contact-me">Contact Me</h3></div>
     </aside>
+
+
+
+
     <!-- Right Section Displays Relevant Information -->
     <div class = "me-info">
-    
-
-
     <section class="about-me-section">
       <p id = "about-me-p">
         Dr. Williams is dedicated to changing the lives of all his students by initially believing in their ability
@@ -218,7 +224,7 @@ section.contact-me-section ul li {
         in psychometrics while earning a master's in statistics and mathematics.
       </p>
     </section>
-    <section class="project-section">Learning</section>
+    <section class="project-section">FlexBok</section>
     <section class = "contact-me-section">
       <ul>
         <li>
